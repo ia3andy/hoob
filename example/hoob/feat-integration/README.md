@@ -1,0 +1,1 @@
+Integrate hoob with other tools (IDE, ...).

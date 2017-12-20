@@ -1,0 +1,1 @@
+User can create a task with a description and a cost.

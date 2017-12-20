@@ -1,0 +1,1 @@
+User can add a description to each structural parts (project, feature, user-story).
